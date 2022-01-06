@@ -1,5 +1,6 @@
-# dio-desafio
+# Dio-desafio
 Desafio de projeto Git/Github
+Bootcaamp Full Stack
 
 ## Links úteis
 
